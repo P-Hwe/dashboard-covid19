@@ -44,5 +44,15 @@ dia2-covid-dashboard/
 ├── notebook_covid_dashboard.ipynb
 ├── dashboard_covid19.html    ← gerado ao rodar o notebook
 └── README.md
+
+Gráficos Gerados:
+
+![casos totais por milhão de habitantes](graficos/casos_totais.png)
+![casos diários](graficos/casos_diarios.png)
+![Mortes por milhão de habitantes](graficos/mortes_milhao.png)
+![Taxa de Mortalidade](graficos/taxa_mortalidade.png)
+![Top 15 Países](graficos/top15.png)
+
+
 Autor
 Pedro Henri Gois da Silva — github.com/P-Hwe
